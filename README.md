@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Eduardo+Carlos+Barboza+Neto;I'm+22+years+old;I+am+from+Brazil,+AL;I+study+systems+analysis+development+at+IFAL;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Edu4rdoCarlos&show_icons=true&count_private=true&hide_border=true&title_color=c0c0c0&icon_color=c0c0c0&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Carlos Barboza Neto github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu4rdoCarlos&layout=compact&hide_border=true&title_color=c0c0c0&text_color=c0c0c0&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Edu4rdoCarlos&show_icons=true&count_private=true&hide=stars&include_all_commits=true&hide_border=true&title_color=c0c0c0&icon_color=c0c0c0&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Carlos Barboza Neto github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu4rdoCarlos&layout=donut&hide_border=true&title_color=c0c0c0&text_color=c0c0c0&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Edu4rdoCarlos&bg_color=0d1117&color=ffffff&line=c0c0c0&point=ffffff&area=true&hide_border=false&area_color=0091dc&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
