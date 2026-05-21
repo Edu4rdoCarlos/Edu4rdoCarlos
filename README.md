@@ -20,7 +20,7 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
  
-### Other Knowledge:
+### Knowledge:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)&nbsp;
@@ -33,11 +33,12 @@
 ![Strapi](https://img.shields.io/badge/strapi-0D1117?style=for-the-badge&logo=strapi&logoColor=2F2E8B)&nbsp;
 ![GraphQL](https://img.shields.io/badge/GraphQl-0D1117?style=for-the-badge&logo=graphql&logoColor=E10098)&nbsp;
 ![Redux Saga](https://img.shields.io/badge/Redux%20saga-0D1117?style=for-the-badge&logo=redux%20saga&logoColor=86D46B)&nbsp;
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)&nbsp;
 
   
-### Studying in this moment:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+### Currently studying:
+DevOps, CI/CD, Docker, Kubernetes and Cloud Computing.
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
