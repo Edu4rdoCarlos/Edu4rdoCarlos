@@ -11,16 +11,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Edu4rdoCarlos&bg_color=0d1117&color=ffffff&line=c0c0c0&point=ffffff&area=true&hide_border=false&area_color=0091dc&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
-### Main skills:
-
-![Next JS](https://img.shields.io/badge/next%20js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![styled-components](https://img.shields.io/badge/styled--components-0D1117?style=for-the-badge&logo=styled-components&logoColor=DB7093)&nbsp;
-![StoryBook](https://img.shields.io/badge/storybook-0D1117?style=for-the-badge&logo=storybook&logoColor=FF4785)&nbsp;
-
- 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0078D4&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
